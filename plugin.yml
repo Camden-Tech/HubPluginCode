@@ -1,0 +1,14 @@
+main: me.BaddCamden.HubPlugin.Main
+name: HubPlugin
+version: 1.0
+author: BaddCamden
+
+api-version: 1.18
+
+commands:
+   hubplus:
+      description: Hub Settings and Uses
+      permission: HubPlugin.HubStuff
+   hub:
+      description: Sends you to hub
+      permission: HubPlugin.hub
